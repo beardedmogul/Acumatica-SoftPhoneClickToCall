@@ -5,4 +5,4 @@ This Acumatica customization adds a button beside the telephone fields that will
 
 To use this customization, either:
 * Download the entire branch as a zip and extract it to get the 'SoftPhoneClickToCall.zip' file and upload it to the 'Customization Projects' screen in Acumatica
-* Download the 'SoftPhoneClickToCall' zip by itself and upload it to the 'Customization Projects' screen in Acumatica
+* Download the 'SoftPhoneClickToCall.zip' file by itself and upload it to the 'Customization Projects' screen in Acumatica
