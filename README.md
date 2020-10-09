@@ -15,5 +15,5 @@ This Acumatica customization adds a 'Call' button beside phone fields that allow
   * Customers (AR303000) : [SoftPhoneClickToCall_AR303000.zip](https://github.com/beardedmogul/Acumatica-SoftPhoneClickToCall/raw/master/20r2/SoftPhoneClickToCall_AR303000.zip) 
   * Vendors (AP303000): [SoftPhoneClickToCall_AP303000.zip](https://github.com/beardedmogul/Acumatica-SoftPhoneClickToCall/raw/master/20r2/SoftPhoneClickToCall_AP303000.zip)
 
-### Screenshot of 'Customers' in 20R2
+### Screenshot of 'Customers' screen in 20R2
 ![screenshot](/20r2/customerMaint.png)
