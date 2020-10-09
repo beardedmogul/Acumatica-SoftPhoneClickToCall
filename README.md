@@ -1,6 +1,6 @@
 # SoftPhoneClickToCall
-An Acumatica customization allowing click-to-call from Customers, Vendors, Contacts, and Business Accounts
+An Acumatica customization allowing click-to-call functionality from Business Accounts, Contacts, Customers, and Vendors
 
-This Acumatica customization adds a button beside the telephone fields that will allow you to 'dial' the telephone number in a soft-phone application like Skype, Skype for Business, MS Teams, etc.
+This Acumatica customization adds a 'Call' button beside phone fields that allow you to dial the telephone number in a soft-phone application like Skype, Skype for Business, MS Teams, etc.
 
 To use this customization, download the 'SoftPhoneClickToCall.zip' release and upload it to the 'Customization Projects' screen in Acumatica
