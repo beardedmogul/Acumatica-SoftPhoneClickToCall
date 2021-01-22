@@ -22,3 +22,5 @@ Open one of the customized screens and click the CALL button beside a non-empty 
 
 ### Screenshot of 'Customers' screen in 20R2
 ![screenshot](/20r2/customerMaint.png)
+
+(like the theme? Find it [here](https://github.com/beardedmogul/Acumatica-SolarizedTheme))
