@@ -8,6 +8,11 @@ This Acumatica customization adds a 'Call' button beside phone fields that allow
 1. Upload to the 'Customization Projects' screen in Acumatica
 1. Publish the customizations
 
+## To use this functionality:
+Open one of the customized screens and click the CALL button beside a non-empty phone field. You may be asked to confirm the action and/or choose your softphone application. Once you have done so, your softphone should open and possibly confirm that you would like to dial the number.
+
+Disclaimer: this has been tested with MS Teams, but it will work with any application designed to handle the TEL protocol.
+
 ### Individual Customization Projects
 * 20r2
   * Business Accounts (CR303000) : [SoftPhoneClickToCall_CR303000.zip](https://github.com/beardedmogul/Acumatica-SoftPhoneClickToCall/raw/master/20r2/SoftPhoneClickToCall_CR303000.zip)
